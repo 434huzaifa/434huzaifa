@@ -14,7 +14,7 @@
 
 ## About Me
 
-I don't know who you are. I don't know what you want. If you're seeking flawless code, I can assure you I have a unique set of skills, skills I've honed over a lengthy coding journey. Skills that make me a coding nightmare for bugs and inefficiencies. If you grant me a chance now, it's the beginning. I don't just write code; I debug tirelessly, refactor diligently, and optimize every line. Without this opportunity, I'll still be on the hunt for challenges, learning, and optimizing my skills until I land that dream job.
+I don't know who you are. I don't know what you want. If you're seeking flawless code, I can assure you I have a unique set of skills—skills I've honed over a lengthy coding journey. Skills that make me a coding nightmare for bugs and inefficiencies. I don't just write code; I debug tirelessly, refactor diligently, and optimize every line. I'll be on the hunt for challenges, learning, and optimizing my skills until I become the greatest.
 
 ## Summary
 
@@ -31,9 +31,8 @@ I don't know who you are. I don't know what you want. If you're seeking flawless
 ## Say Hi
 <p align="center">
    <a href="http://www.linkedin.com/in/434-md-huzaifa">
-   <img src="https://skillicons.dev/icons?i=linkedin" />
+   <img src="https://raw.githubusercontent.com/434huzaifa/434huzaifa/main/assets/linkedIn.gif" />
    </a>
-  
 </p>
-
+---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=434huzaifa" alt="GitHub Streak" />
