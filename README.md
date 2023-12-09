@@ -31,7 +31,7 @@ I don't know who you are. I don't know what you want. If you're seeking flawless
 ## Say Hi
 <p align="center">
    <a href="http://www.linkedin.com/in/434-md-huzaifa">
-   <img src="https://i.ibb.co/WVqCZFd/icons8-linkedin-2.gif" alt="icons8-linkedin-2" border="0">
+   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90">
    </a>
 </p>
 ---
