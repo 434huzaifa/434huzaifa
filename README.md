@@ -36,4 +36,7 @@ I don't know who you are. I don't know what you want. If you're seeking flawless
    <img src="https://raw.githubusercontent.com/434huzaifa/434huzaifa/main/assets/link2.webp">
    </a>
 </p>
+
+---
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=434huzaifa" alt="GitHub Streak" />
