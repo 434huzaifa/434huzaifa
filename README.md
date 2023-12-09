@@ -1,6 +1,6 @@
 <p align="center">
    
-   <img src="https://raw.githubusercontent.com/434huzaifa/434huzaifa/main/assets/link2.webp">
+   <img src="https://raw.githubusercontent.com/434huzaifa/434huzaifa/main/assets/card.webp">
    
 </p>
 
