@@ -18,7 +18,7 @@ I don't know who you are. I don't know what you want. If you're seeking flawless
 </p>
 <p align="center">  
   <a href="">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,html,tailwind,css,firebase,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,tailwind,firebase,git" />
   </a>
 </p>
 
