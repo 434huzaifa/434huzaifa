@@ -13,7 +13,7 @@ I don't know who you are. I don't know what you want. If you're seeking flawless
 ## 💻Tech Stack
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,django,flask,js,express,react,ts" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,django,flask,express,react,ts" />
   </a>
 </p>
 <p align="center">  
