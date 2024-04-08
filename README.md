@@ -18,7 +18,7 @@ I don't know who you are. I don't know what you want. If you're seeking flawless
 </p>
 <p align="center">  
   <a href="">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,tailwind,firebase,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,tailwind,firebase,git" /> <img src=https://imgildev.gallerycdn.vsassets.io/extensions/imgildev/vscode-drizzle-snippets/1.0.0/1705938723102/Microsoft.VisualStudio.Services.Icons.Default />
   </a>
 </p>
 
